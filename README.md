@@ -12,11 +12,13 @@
 | [0011-container-with-most-water](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0016-3sum-closest) |
 | [1768-merge-strings-alternately](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -36,4 +38,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arbaz-khan-linux/LEETCODE_solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
